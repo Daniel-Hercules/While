@@ -1,0 +1,13 @@
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\bin\Debug\netcoreapp3.1\While.exe
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\bin\Debug\netcoreapp3.1\While.deps.json
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\bin\Debug\netcoreapp3.1\While.dll
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\bin\Debug\netcoreapp3.1\While.pdb
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\obj\Debug\netcoreapp3.1\While.csprojAssemblyReference.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\obj\Debug\netcoreapp3.1\While.csproj.CoreCompileInputs.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\obj\Debug\netcoreapp3.1\While.dll
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\obj\Debug\netcoreapp3.1\While.pdb
+C:\Users\D.Hercules (HISCOX)\source\repos\While\While\obj\Debug\netcoreapp3.1\While.genruntimeconfig.cache
